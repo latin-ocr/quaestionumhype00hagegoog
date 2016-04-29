@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaestionumhype00hagegoog_0006.png"; bbox 0 0 3190 5002; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 193 1729 1315 1834">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 193 1729 1315 1834">
+     <span class='ocr_line' id='line_1_1' title="bbox 193 1729 1315 1834; baseline 0 -3"><span class='ocrx_word' id='word_1_1' title='bbox 193 1733 268 1831; x_wconf 84' lang='grc' dir='ltr'><strong>ΑΙ)</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 288 1732 512 1834; x_wconf 78' lang='lat' dir='ltr'>SUMMOS</span> <span class='ocrx_word' id='word_1_3' title='bbox 530 1733 590 1830; x_wconf 89' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 608 1730 981 1831; x_wconf 79' lang='lat' dir='ltr'><strong>PHILOSOPHIA</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 998 1729 1252 1832; x_wconf 77' lang='lat' dir='ltr'><strong>HONORES</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1310 1757 1315 1771; x_wconf 87' lang='grc'>·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 316 2119 1130 2263">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 316 2089 1130 2320">
+     <span class='ocr_line' id='line_1_2' title="bbox 316 2119 1130 2263; baseline 0.001 -4"><span class='ocrx_word' id='word_1_7' title='bbox 316 2119 895 2263; x_wconf 67' lang='grc' dir='ltr'><strong>νκιιοεονκυηυωοηυικε</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 916 2159 1130 2262; x_wconf 60' lang='lat' dir='ltr'><strong>mutus!</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1600 5002">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1600 5002">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1600 5002; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1600 5002; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
